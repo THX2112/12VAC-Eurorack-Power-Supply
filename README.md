@@ -3,7 +3,9 @@ A simple +12 -12 power supply for Eurorack using 12VAC adapters
 
 Based on:
 http://www.musicfromouterspace.com/analogsynth_new/WALLWARTSUPPLY/WALLWARTSUPPLY.php
+
 http://www.diystompboxes.com/smfforum/index.php?topic=28842.0
+
 http://www.geofex.com/Article_Folders/Power-supplies/powersup.htm
 
 BOM:
