@@ -10,6 +10,7 @@ http://www.geofex.com/Article_Folders/Power-supplies/powersup.htm
 
 BOM:
 
+
 6   1n4007     DIODE
 
 1              M05X2SHD        2X5-SHROUDED Header 5x2    
